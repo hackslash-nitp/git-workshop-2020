@@ -1,6 +1,4 @@
 # git-workshop-2020
-
-
 List of participants
 - Sumit
 - saurabh dhotre
@@ -21,3 +19,5 @@ List of participants
 - pratyush
 - abhishek jaiswal
 - shivam singh
+- suraj kumar
+
