@@ -29,3 +29,4 @@ List of participants
 - Avinash
 - Aditya Gupta
 - vikhyat singh
+- Nidhi Ranjan
