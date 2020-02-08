@@ -20,4 +20,5 @@ List of participants
 - abhishek jaiswal
 - shivam singh
 - suraj kumar
+- Amrit Raj
 
