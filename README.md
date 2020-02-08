@@ -23,3 +23,4 @@ List of participants
 - Amrit Raj
 - Shashwat Awasthi
 - Abhinandan
+- Ritik Gupta
