@@ -35,3 +35,4 @@ List of participants
 - Nikhil Ranjan Kumar
 - shreya vijayvargiya
 - Priyank Mishra
+- Digvijay Srivastava
