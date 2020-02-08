@@ -37,4 +37,5 @@ List of participants
 - shreya vijayvargiya
 - Priyank Mishra
 - Digvijay Srivastava
+- Anni Kumari
 - Bharat Pratap
