@@ -27,3 +27,5 @@ List of participants
 - Saurav Kumar Sonu
 - Asmit Vimal
 - Avinash
+- Aditya Gupta
+
