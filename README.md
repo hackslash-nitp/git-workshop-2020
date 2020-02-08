@@ -26,3 +26,4 @@ List of participants
 - Ritik Gupta
 - Saurav Kumar Sonu
 - Asmit Vimal
+- Avinash
