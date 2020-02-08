@@ -24,3 +24,4 @@ List of participants
 - Shashwat Awasthi
 - Abhinandan
 - Ritik Gupta
+- Saurav Kumar Sonu
