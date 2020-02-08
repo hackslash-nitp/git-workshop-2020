@@ -1,4 +1,5 @@
 # git-workshop-2020
+
 List of participants
 - Sumit
 - saurabh dhotre
@@ -37,3 +38,4 @@ List of participants
 - Priyank Mishra
 - Digvijay Srivastava
 - Anni Kumari
+- Bharat Pratap
