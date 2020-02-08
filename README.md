@@ -39,3 +39,5 @@ List of participants
 - Digvijay Srivastava
 - Anni Kumari
 - Bharat Pratap
+- Kumar Harsh
+- Parth Sharma
